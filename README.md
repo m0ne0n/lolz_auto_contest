@@ -9,7 +9,9 @@ pip install -r requirements.tx
 ```sh
 lolz_contests.py
 ```
-и меняете 23 строку(https://github.com/m0ne0n/lolz_auto_contest/blob/64799ccad799af8272aaf906cab28ab53489dbca/lolz_contests.py#L23) на
+и меняете
+(https://github.com/m0ne0n/lolz_auto_contest/blob/64799ccad799af8272aaf906cab28ab53489dbca/lolz_contests.py#L23)
+на это:
 ```python
 driver = Chrome(options=options, version_main=109)
 ```
