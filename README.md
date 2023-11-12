@@ -1,0 +1,1 @@
+# lolz_auto_contest
